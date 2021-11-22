@@ -1,0 +1,8 @@
+name: BubbleCommand
+main: com.skywalx.BubblePlugin
+version: 1.0
+commands:
+  bubbles:
+    description: "Shows bubbles to player"
+    usage: ""
+    permission: "bubbles.command"
